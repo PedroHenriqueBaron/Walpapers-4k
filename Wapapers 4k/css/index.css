@@ -1,6 +1,6 @@
-@media screen and (min-width: 1200px){
+/* @media screen and (min-width: 1200px){
     /*Desktop*/
-    .imagem2 {
+    /* .imagem2 {
         text-align: left;
          
     }
@@ -8,22 +8,22 @@
 }
 @media screen and (min-width: 601px) and (max-width: 1199px){
     /*Tablet*/
-    .imagem2 {
+    /* .imagem2 {
         text-align: left;
          
     }
     }
 @media screen and (max-width: 600px){
     /*Celular*/
-    .imagem2 {
+    /* .imagem2 {
         text-align: center;
         width: 100%;
         
-    }
+    } */
 
-    
+     /* */
 
-}
+
 /* 
 .titulo{
     text-align: center;

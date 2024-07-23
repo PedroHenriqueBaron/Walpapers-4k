@@ -1,6 +1,7 @@
 <template>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <Imagem/>
+  <Video/>
 </template>
 
 <script>
