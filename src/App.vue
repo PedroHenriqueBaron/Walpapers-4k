@@ -1,18 +1,16 @@
 <template>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <Imagem/>
-  <Video/>
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import Imagem from '/components/Imagem.vue'
-import Video from '/components/Video.vue'
+import HelloWorld from './components/PaginaPrincipal.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld, Imagem, Video
+    HelloWorld,
   }
 }
 </script>
