@@ -7,7 +7,6 @@
         <img src="@/assets/mulherpeixe.jpg" height="37%" width="64%" />
         <img src="@/assets/9d5a18e7ffc7e7afba8d609d6e21f5c089772175_00.jpg" height="37%" width="35%" />
     </div>
-    <img src="@/assets/8k.jpg" />
 
 </template>
 <script>

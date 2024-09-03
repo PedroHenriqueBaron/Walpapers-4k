@@ -5,6 +5,9 @@
             <h2>Pedro Baron</h2>
         </div>
         <ImagemOutros />
+        <h2>Imagem Pesadaça</h2>
+        <ImagemResolucao />
+        <h2>Vídeo divertido</h2>
         <VideoOutros />
     </body>
     <!-- <div class="imagem1">
@@ -26,13 +29,13 @@
 
 <script>
 import ImagemOutros from '@/components/ImagemOutros.vue'
+import ImagemResolucao from './ImagemResolucao.vue';
 import VideoOutros from '@/components/VideoOutros.vue'
 export default {
     name: 'PaginaPrincipal',
     components:{
-        ImagemOutros, VideoOutros
+        ImagemOutros,ImagemResolucao, VideoOutros
     }
 }
 </script>
 
-<style></style>
